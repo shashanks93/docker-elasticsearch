@@ -26,5 +26,5 @@ deployment:
       #- docker push circleci/elasticsearch
       #- docker push shashankp/elasticsearch
       #- docker login -e $DOCKER_EMAIL -u $DOCKER_USER -p $DOCKER_PASS
-      - docker push shashankp/elasticsearch
+      #- docker push shashankp/elasticsearch
       
